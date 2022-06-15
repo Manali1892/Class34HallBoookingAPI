@@ -1,0 +1,107 @@
+[
+    {
+        "bookingId": 1,
+        "customerName": "Manali",
+        "date": "2022-05-15",
+        "startTime": "2022-05-15T02:30:50",
+        "endTime": "2022-05-15T05:30:00",
+        "roomId": 2
+    },
+    {
+        "bookingId": 2,
+        "customerName": "Manasi",
+        "date": "2022-05-15",
+        "startTime": "2022-05-15T02:30:50",
+        "endTime": "2022-05-15T05:30:00",
+        "roomId": 1
+    },
+    {
+        "bookingId": 3,
+        "customerName": "Manav",
+        "date": "2022-05-15",
+        "startTime": "2022-05-15T02:30:50",
+        "endTime": "2022-05-15T05:30:00",
+        "roomId": 3
+    },
+    {
+        "bookingId": 4,
+        "customerName": "Sai",
+        "date": "2022-05-15",
+        "startTime": "2022-05-15T02:30:50",
+        "endTime": "2022-05-15T05:30:00",
+        "roomId": 4
+    },
+    {
+        "bookingId": 5,
+        "customerName": "Sureshkumar",
+        "date": "2022-05-15",
+        "startTime": "2022-05-16T02:30:50",
+        "endTime": "2022-05-16T05:30:00",
+        "roomId": 4
+    },
+    {
+        "bookingId": 6,
+        "customerName": "Shekhar",
+        "date": "2022-05-15",
+        "startTime": "2022-05-16T02:30:50",
+        "endTime": "2022-05-16T05:30:00",
+        "roomId": 1
+    },
+    {
+        "bookingId": 7,
+        "customerName": "Ram",
+        "date": "2022-05-15",
+        "startTime": "2022-05-15T10:30:50",
+        "endTime": "2022-05-16T05:30:00",
+        "roomId": 3
+    },
+    {
+        "bookingId": 8,
+        "customerName": "Pavitra",
+        "date": "2022-05-15",
+        "startTime": "2022-05-15T12:30:50",
+        "endTime": "2022-05-16T05:30:00",
+        "roomId": 5
+    },
+    {
+        "bookingId": 9
+    },
+    {
+        "customerName": "Pallavi",
+        "date": "2022-05-15",
+        "startTime": "2022-05-15T12:30:50",
+        "endTime": "2022-05-16T05:30:00",
+        "roomId": 5,
+        "bookingId": 10
+    },
+    {
+        "bookingId": 11
+    },
+    {
+        "bookingId": 12
+    },
+    {
+        "bookingId": 13
+    },
+    {
+        "bookingId": 14
+    },
+    {
+        "bookingId": 15
+    },
+    {
+        "bookingId": 16
+    },
+    {
+        "bookingId": 17
+    },
+    {
+        "bookingId": 18
+    },
+    {
+        "bookingId": 19
+    },
+    {
+        "bookingId": 20
+    }
+]
